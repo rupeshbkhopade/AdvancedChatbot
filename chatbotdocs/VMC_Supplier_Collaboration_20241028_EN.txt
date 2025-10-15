@@ -1,20 +1,18 @@
-Explanation? 70 mins
+**This is an extract of briefing from Honda R&D Asia Pacific Co., Ltd. to its suppliers**
+**This communication explains about the Honda objective for DX and the changes that will impact the collboration between Honda and its suppliers**
 
-Please wait a little while until the event starts.
-Please turn-off camera and microphone.
-?Please enter: "Company name + First name" in chat.2024.10.28
-Asian Honda Co., Ltd. (ASH) Honda R&D Asia Pacific Co., Ltd. (HRAP)
-Agenda
-Explanation? 70 mins
-Q&A?	45 mins
-No.ItemTime
-(Minutes)Presenter1Opening speech
-??Today's purpose5HRAP FunakoshiSMG2Outline of Honda initiatives
+Outline of Honda initiatives
 * Evolution of Honda's development-process and key measures
 Business Partner Collaboration Initiatives
 * Vision for Joint Creation with Business Partners
-* Collaboration environment evolution20HRAP CIS Attawit3Environment cost and system configuration
-Administrative Procedures for Starting Use of the environment20ASH IT Aikawa4Methods for Applying CATIA V6 Practices Deployment plan 20HRAP Funakoshi SMG5Summary5ASH IT Aikawa6Q&A45ASH/HRAP/HM ALL7Closing speech5HRAP Funakoshi SMGMain purpose of this day
+* Collaboration environment evolution
+
+Environment cost and system configuration
+Administrative Procedures for Starting Use of the environment
+
+Methods for Applying CATIA V6 Practices Deployment plan 
+
+Main purpose of this day
 Thank you for taking time out of your busy schedule to attend the information session today.
 As part of our manufacturing DX, we have worked with our business partners to develop a strong manufacturing structure.
 We are making improvements to issues such as mistakes in information that have been returned, requirements and requirements that have been mismatched prior to the drawing.
@@ -23,17 +21,6 @@ Prompting the process construction is important in achieving operational efficie
 Today, we will explain how to collaborate with our design using the Digital Collaboration Environment, and the necessary administrative procedures for use.
 We plan to begin using CATIA V6 and Digital Collaboration Environment in HRAP around 
 September 2025. For each supplier, please accept CATIA V6 drawings and prepare for delivery.
-Agenda
-Explanation? 70 mins
-Q&A?	45 mins
-No.ItemTime
-(Minutes)Presenter1Opening speech
-??Today's purpose5HRAP FunakoshiSMG2Outline of Honda initiatives
-* Evolution of Honda's development-process and key measures
-Business Partner Collaboration Initiatives
-* Vision for Joint Creation with Business Partners
-* Collaboration environment evolution20HRAP CIS Attawit3Environment cost and system configuration
-Administrative Procedures for Starting Use of the environment20ASH IT Aikawa4Methods for Applying CATIA V6 Practices Deployment plan 20HRAP Funakoshi SMG5Summary5ASH IT Aikawa6Q&A45ASH/HRAP/HM ALL7Closing speech5HRAP Funakoshi SMG
 
 CAD News Issue
 CAD NEWS which was issued on April 29, 2022.
@@ -65,45 +52,80 @@ Measure ?: DPM Automatic Construction
 Current concern
 * DPM is not delivered until after drawing is issued.
 * Cannot check Layout data in timely manner.
-* Due to DPM verification delays, data has to be reworked.DPM will be automatically constructed from layout data and BOM and data presented to suppliers can be gathered quickly without exception.
+* Due to DPM verification delays, data has to be reworked.
+
+
+DPM will be automatically constructed from layout data and BOM and data presented to suppliers can be gathered quickly without exception.
 Measure ?: Evolution of DWG
 
 Current concern
 * Modeling and drawing rules are different depending on the regions, functional group and PIC.
 * It takes time to understand the intention of the previous PIC when reusing.
-* It takes time to inspect the drawing.Digitization of attribute information improves accuracy and efficiency when checking DWG and utilizing information.
+* It takes time to inspect the drawing.
+
+
+Digitization of attribute information improves accuracy and efficiency when checking DWG and utilizing information.
 Measure ?: Distribution Data and Evolution of Data Flow
 
 Changes in Drawing Format
-3DXML formalization (2/19 ~) Positive: 3dxml+XML+TIFF3DXML unification JT halted (from Oct. 7) Positive: 3dxml+XML+TIFFJT full stop ('25/1?) Positive: 3dxml+XML+TIFFPositive: JT BREP+XML+TIFFDistributi on
-Format
-
+
+3DXML formalization (2/19 ~) Positive: 3dxml+XML+TIFF
+
+3DXML unification JT halted (from Oct. 7) Positive: 3dxml+XML+TIFF
+
+JT full stop ('25/1?) Positive: 3dxml+XML+TIFF
+
+Positive: JT BREP+XML+TIFF
+
+
+
+
+Distributi on
+Format
+
+
+
+
 3D
-XMLXML?TIFFCATIA ViewerResponse to JT halt
+XML
+XML?TIFF
+CATIA Viewer
+Response to JT halt
 
 Shape confirmation data DARWIN Viewer
-3D
-XMLXML?TIFFViewerAdd 3DXML/CATIA Viewer JT/DARWIN continuesFormally, 3DXML, JT responds to requests Sending data separatelyOfficially 3DXML/CATIA Viewer
-Unification?Please check the previously issued drawings in JT/DARWIN.
+
+
+3D
+XML
+XML?TIFF
+
+Viewer
+
+
+
+
+
+
+
+Add 3DXML/CATIA Viewer JT/DARWIN continues
+
+Formally, 3DXML, JT responds to requests Sending data separately
+
+Officially 3DXML/CATIA Viewer
+Unification
+?Please check the previously issued drawings in JT/DARWIN.
 Current concern
 * Late sharing of L / O and surrounding parts to suppliers
 * It is unclear whether the presented data is up to date.
 * Rework occurs by 
 referring to old data.
 * Man-hours for data sharing and transmission / reception are large.
-* No history of exchanges remains.Measure ?: Collaboration Environment Evolution
+* No history of exchanges remains.
+Measure ?: Collaboration Environment Evolution
 Direct access makes sharing the latest product data much faster, and history management reduces rework.
-Agenda
-Explanation? 70 mins
-Q&A?	45 mins
-No.ItemTime
-(Minutes)Presenter1Opening speech
-??Today's purpose5HRAP FunakoshiSMG2Outline of Honda initiatives
-* Evolution of Honda's development-process and key measures
-Business Partner Collaboration Initiatives
-* Vision for Joint Creation with Business Partners
-* Collaboration environment evolution20HRAP CIS Attawit3Environment cost and system configuration
-Administrative Procedures for Starting Use of the environment20ASH IT Aikawa4Methods for Applying CATIA V6 Practices Deployment plan 20HRAP Funakoshi SMG5Summary5ASH IT Aikawa6Q&A45ASH/HRAP/HM ALL7Closing speech5HRAP Funakoshi SMGVision for Joint Creation with Business Partners
+
+
+Vision for Joint Creation with Business Partners
 At present, the main issues in collaboration with business partners are ?Delay in reflection of supplier skills
 ?Rework due to inadequate sharing of information, such as reference to old surrounding data
  ?Waste man-hours such as information copying and repeated input We believe that improvement is indispensable.
@@ -111,13 +133,13 @@ To solve this problem, we have developed a new DPM that digitizes the drawing da
 
 Supplier Digital Collaboration Environment - Benefit
 
-Honda Confidential
+ 
 	? Accuracy and speed of information sharing	19
 [High-speed sharing of 3D by DPM auto-build function]
 Component information entered in the Digital Collaboration Environment is linked to L/O data, and shared data can be created at high speed by DPM auto-build function that creates DPM data from L/O data.
 
 Achieve quick sharing of 3D data using a Digital Collaboration Environment
-Honda Confidential
+ 
 	? Improvement of work efficiency for designers	20
 [Produce efficient DPM and drawings by digitizing attribution data]
 ?The "box" for attribute input is automatically created from the component information entered in the digital Collaboration environment.
@@ -133,19 +155,14 @@ Digital Collaboration environment:
 Environment in which business partner designers co-create with Honda on the cloud while still in their own offices
 
 Outline of drawing delivery formats and new Viewer
-Drawing dataToolsConversion function (utilization)
+Drawing data
 
-Agenda
-Explanation? 70 mins
-Q&A?	45 mins
-No.ItemTime
-(Minutes)Presenter1Opening speech
-??Today's purpose5HRAP FunakoshiSMG2Outline of Honda initiatives
-* Evolution of Honda's development-process and key measures
-Business Partner Collaboration Initiatives
-* Vision for Joint Creation with Business Partners
-* Collaboration environment evolution20HRAP CIS Attawit3Environment cost and system configuration
-Administrative Procedures for Starting Use of the environment20ASH IT Aikawa4Methods for Applying CATIA V6 Practices Deployment plan 20HRAP Funakoshi SMG5Summary5ASH IT Aikawa6Q&A45ASH/HRAP/HM ALL7Closing speech5HRAP Funakoshi SMG
+Tools
+
+Conversion function (utilization)
+
+
+
 Environment cost (free/charged) rules
 ?Cost rules:
         1 person per M/L for 1 model   --> free of charge,
@@ -156,80 +173,243 @@ Digital Collaboration Environment configuration
 
 Requirements for Supplier side Environment
 Make sure that the business partner's internal environment and the network for accessing satisfy the conditions below, including DARWIN 3D.
-
-ClassificationCategoryItemRemarksHardwareDeviceNotebook PC or workstationCPUIntel Core-i5 equivalentMemory8GB or higherDISKHDD/SSDPrepare the capacity according to the amount of data to be transferred.GraphicOpenGL version-2 or later graphics adapter Graphics memory 512MB or higherOnboard graphics enabledSoftwareOSWindows 10 64Windows 32bit Not Supported
-ARM processor not supported (e.g. Surface Pro X)OtherMicrosoft Visual C++ Redistributable for Visual Studio 2015?For Bulk Deployment with Lite3D Installer https://www.technia.com/support/software-downloads/#technia
+
+
+Classification
+Category
+Item
+Remarks
+Hardware
+Device
+Notebook PC or workstation
+
+
+CPU
+Intel Core-i5 equivalent
+
+
+Memory
+8GB or higher
+
+
+DISK
+HDD/SSD
+Prepare the capacity according to the amount of data to be transferred.
+
+Graphic
+OpenGL version-2 or later graphics adapter Graphics memory 512MB or higher
+Onboard graphics enabled
+Software
+OS
+Windows 10 64
+Windows 32bit Not Supported
+ARM processor not supported (e.g. Surface Pro X)
+
+Other
+Microsoft Visual C++ Redistributable for Visual Studio 2015
+?For Bulk Deployment with Lite3D Installer https://www.technia.com/support/software-downloads/#technia
 ?For individual downloads
-https://www.microsoft.com/en-us/download/details.aspx?id=48145Line TypeInternet lineNetworkBandwidthMinimum Bandwidth 15Mbps/User for CAD Usage as a Azure CloudThis is the bandwidth required from a business partner to the Internet exit.
+https://www.microsoft.com/en-us/download/details.aspx?id=48145
+
+Line Type
+Internet line
+
+Network
+
+
+
+
+Bandwidth
+Minimum Bandwidth 15Mbps/User for CAD Usage as a Azure Cloud
+This is the bandwidth required from a business partner to the Internet exit.
 ?Classification by usage (CAD usage is classified into POWER)
 https://docs.microsoft.com/ja-jp/windows-server/remote/remote-desktopservices/remote-desktop-workloads
 ?Bandwidth (for applications classified as POWER, the lowest 15Mbps is recommended) https://docs.microsoft.com/ja-jp/windows-server/remote/remote-desktop-
-services/network-guidance?context=/azure/virtual-desktop/context/context#applicationsDelayLess than 50msAs it varies depending on the environment, please check with the network check tool (next page)FirewallDetails will be provided at a later dateCloud URL, PortsPlease prepare the environment that meets the above requirements
+services/network-guidance?context=/azure/virtual-desktop/context/context#applications
+
+Delay
+Less than 50ms
+As it varies depending on the environment, please check with the network check tool (next page)
+
+Firewall
+Details will be provided at a later date
+Cloud URL, Ports
+
+Please prepare the environment that meets the above requirements
 
 Plan Type
 
 Please select a plan according to the actual usage of the supplier.
 Cost for charged plan and Collaboration environment spec
 
-ItemSupplier Collaboration environment userWindow person of design (Max. 2)Other than the left sideCloud environmentHonda burdenSupplier BurdenEnovia V6Honda burdenHonda burdenCATIA V6Honda burdenSupplier BurdenDevelopment information (task management)Honda burdenSupplier BurdenDevelopment information (schedule management)Honda burdenSupplier BurdenItemPayeeExpensesDetailed DescriptionAllBasic charge (Monthly)Honda\9,000/set
-\2,000/person (fixed)Environment disbursement, registration, and managementApplication processing, application management, new payout, suspension of use, configuration management/monitoring, maintenanceQA/ failure responseQA failure response via help deskManagement toolIncident management, information distributionCould environmentMicrosoft SW licensing costsSales agentPlease ask Sales agent (fixed)Windows 10/11 Enterprise E5... 1 unit/personEnterprise Mobility + Security  E3 (for client) ... 1 unit/personMicrosoft 365 Apps for enterprise... 1 unit/person *For Shared plan, this license is OptionalExchange Online Plan2... 1 unit/person *For Shared plan, this license is OptionalCloud Instances Usage feeSales agentPlease ask Sales agent (Pay-per-use)<Usage environment>
+Item
+Supplier Collaboration environment user
+
+Window person of design (Max. 2)
+Other than the left side
+Cloud environment
+Honda burden
+Supplier Burden
+Enovia V6
+Honda burden
+Honda burden
+CATIA V6
+Honda burden
+Supplier Burden
+Development information (task management)
+Honda burden
+Supplier Burden
+Development information (schedule management)
+Honda burden
+Supplier Burden
+
+
+Item
+Payee
+Expenses
+Detailed Description
+All
+Basic charge (Monthly)
+Honda
+\9,000/set
+\2,000/person (fixed)
+Environment disbursement, registration, and management
+Application processing, application management, new payout, suspension of use, configuration management/monitoring, maintenance
+
+
+
+
+QA/ failure response
+QA failure response via help desk
+
+
+
+
+Management tool
+Incident management, information distribution
+Could environment
+Microsoft SW licensing costs
+Sales agent
+Please ask Sales agent (fixed)
+Windows 10/11 Enterprise E5... 1 unit/person
+
+
+
+
+Enterprise Mobility + Security  E3 (for client) ... 1 unit/person
+
+
+
+
+Microsoft 365 Apps for enterprise... 1 unit/person *For Shared plan, this license is Optional
+
+
+
+
+Exchange Online Plan2... 1 unit/person *For Shared plan, this license is Optional
+
+Cloud Instances Usage fee
+Sales agent
+Please ask Sales agent (Pay-per-use)
+<Usage environment>
 ?Instance
-?Certification machine: “Standard B2S Linux(2vCPU(s),4GB RAM),Standard Managed Disk E4(32GB RAM)×1“???? unit/ company
-?AVDClient: “Standard D4v4 Windows10(4vCPU(s)?16GB RAM),Standard Managed Disk E10?128GB RAM?×1???1 unit/user ?VDIClilent: “Standard_NC4as_T4_v3 4vCPU(s)?28GB RAM?Standard Managed Disk E10?128GB RAM?×3”???1 unit/user ?Additional Storage
-? “Azure Files(100GB)?Azure Backup(difference)(500GB) ???1 unit/user ?Others
-?Microsoft Defender for Cloud ??? 1/device + Cloud internal communication fee(30GB) ???1 unit/userCATIA V6DS CATIA V6
-License costsSales agentPlease ask Sales agentIf you already have DS Licenses?Register the licenses to managed DSLS tenant for supplier
+?Certification machine: Â“Standard B2S Linux(2vCPU(s),4GB RAM),Standard Managed Disk E4(32GB RAM)Ã—1Â“???? unit/ company
+?AVDClient: Â“Standard D4v4 Windows10(4vCPU(s)?16GB RAM),Standard Managed Disk E10?128GB RAM?Ã—1???1 unit/user ?VDIClilent: Â“Standard_NC4as_T4_v3 4vCPU(s)?28GB RAM?Standard Managed Disk E10?128GB RAM?Ã—3Â”???1 unit/user ?Additional Storage
+? Â“Azure Files(100GB)?Azure Backup(difference)(500GB) ???1 unit/user ?Others
+?Microsoft Defender for Cloud ??? 1/device + Cloud internal communication fee(30GB) ???1 unit/user
+CATIA V6
+DS CATIA V6
+License costs
+Sales agent
+Please ask Sales agent
+If you already have DS Licenses?Register the licenses to managed DSLS tenant for supplier
 If you do not have DS Licenses yet.?New purchase or Migration from V5 license
 MES and TAD are mandatory, PCS (IFW and CSV) are not required
-MESNecessary for L/O, 3D modeling, kinematics creation, DPM constructionTADNecessary for creating FTAs (dimensions / annotations) in 3DPlease prepare for the introduction of Collaboration environment.
+MES
+Necessary for L/O, 3D modeling, kinematics creation, DPM construction
+TAD
+Necessary for creating FTAs (dimensions / annotations) in 3D
+
+Please prepare for the introduction of Collaboration environment.
 Cost image for charged plan
 Rate: 1USD=36.9THB          1JPY=0.23THB
-Use caseExclusive planShared planUsage planPay-as-you-go + 1 workstation/person       Pay-as-you-go + 1 workstation with 5 usersBasic charge 
-(GUID,AHEAD)30,360 THB
-\11,000 *1210,488 THB / person
-(\9,000+\2,000*5)*12/5MS SW Licensing20,079 THB10,426 THB / person (Option Ms office and
-Mail box:+9,653 THB)CATIA LicensingPrepared by supplierPrepared by supplierCloud Instances Transactional PricingPay-as-you-go (annual): 223,767 THB Example: 14 hours × 240 days = 3360 hoursPay-as-you-go (annual): 74,736 THB Example: 3 hours x 240 days = 720 hoursPay-as-you-go (annual): 54,511 THB Example: 1.5 hours × 240 days = 360 hoursAnnual Cost274,206 THB125,175 THB75,425 THB?This cost is for just reference.
+Use case
+Exclusive plan
+Shared plan
+Usage plan
+Pay-as-you-go + 1 workstation/person
+       Pay-as-you-go + 1 workstation with 5 users
+Basic charge 
+(GUID,AHEAD)
+30,360 THB
+\11,000 *12
+10,488 THB / person
+(\9,000+\2,000*5)*12/5
+MS SW Licensing
+20,079 THB
+10,426 THB / person (Option Ms office and
+Mail box:+9,653 THB)
+CATIA Licensing
+Prepared by supplier
+Prepared by supplier
+Cloud Instances Transactional Pricing
+Pay-as-you-go (annual): 223,767 THB Example: 14 hours Ã— 240 days = 3360 hours
+Pay-as-you-go (annual): 74,736 THB Example: 3 hours x 240 days = 720 hours
+Pay-as-you-go (annual): 54,511 THB Example: 1.5 hours Ã— 240 days = 360 hours
+Annual Cost
+274,206 THB
+125,175 THB
+75,425 THB
+?This cost is for just reference.
 Because the cost depend on contract between supplier and vendor 
 Setting usage plans according to usage conditions in response to pay-as-you-go/cloud handset shares
 
 Preparation for Cloud and V6 licenses
 ?To use Honda Supplier Collaboration environment at the expense of a business partner, the following licenses must be prepared by the business partner.
-Cloud environmentAZURE Subscription ID
-MS licence1. Contact Japan Business Systems Asia Pacific Pte. Ltd.
- Please consult “Issue Azure Subscription ID and Purchase MS Software License” for Honda digital Collaboration. (*) (*) About terms of use and costs, contact Sales agent.
+Cloud environment
+
+
+AZURE Subscription ID
+MS licence
+1. Contact Japan Business Systems Asia Pacific Pte. Ltd.
+ Please consult Â“Issue Azure Subscription ID and Purchase MS Software LicenseÂ” for Honda digital Collaboration. (*) (*) About terms of use and costs, contact Sales agent.
 Contact: vmc-ap@jbs.com, Email Subject: [Honda Business Partner Collaboration Environments]
 2. Once "Azure Subscription ID, and MS Licensing" are delivered (*) from JBS to Honda Tenants,     please inform the supplier help desk about Azure subscription ID and MS licensing information. 
-    (*) By registering AZURE subscription ID and license purchased by the supplier with Honda tenant, it will be used to link to the user at the time of application.DS LicensingIf you have CV6 licensing1. Contact the distributor who purchased DS license for "Transfer License Registration to Managed-DSLS Tenants for Business Partners".
-2. After the license transfer to Managed-DSLS is complete, contact Honda Supplier Help Desk.For CV6 unlicensed1. Contact your DS licensing distributor with "DS licensing for Honda digital Collaboration".
+    (*) By registering AZURE subscription ID and license purchased by the supplier with Honda tenant, it will be used to link to the user at the time of application.
+DS Licensing
+
+
+If you have CV6 licensing
+1. Contact the distributor who purchased DS license for "Transfer License Registration to Managed-DSLS Tenants for Business Partners".
+2. After the license transfer to Managed-DSLS is complete, contact Honda Supplier Help Desk.
+
+For CV6 unlicensed
+1. Contact your DS licensing distributor with "DS licensing for Honda digital Collaboration".
 If you do not have a V6 license: Purchasing or migration from V5 license
 Mandatory licensing is MES, TAD.  PCS(IFW, CSV) is not required in Honda supplier collaboration environments.
 REFERENCE DS LICENSING CONFIGURATION URL: https://www.3ds.com/terms/product-portfolio/licensed-programs/
-2. Once you have purchased your DS license and registered your managed DSLS for your business partner with your DS license,      contact Honda Supplier Help.How to ON-OFF cloud workstation
-MethodsDefinitionspay-as-you-goIt can be used at any time in 24h by setting the operating hours of the terminals.
-   ?Change the startup/shutdown time setting to the supplier representative (free frame) and use of the startup/shutdown tool
+2. Once you have purchased your DS license and registered your managed DSLS for your business partner with your DS license,      contact Honda Supplier Help.
+How to ON-OFF cloud workstation
+Methods
+Definitions
+pay-as-you-go
+It can be used at any time in 24h by setting the operating hours of the terminals.
+   ?Change the startup/shutdown time setting to the supplier representative (free frame) and use of the startup/shutdown tool
+
 Allow charges only for usage hours and pre-configuration of usage hours
-How to charge for “basic charge”
+How to charge for Â“basic chargeÂ”
 Timing: Charges are made four times a year (June, September, December, March)
 Invoice Methods: Honda confirms the payment amount prior to the first month of the invoice, and Honda issues the invoice to the account at the end of the month of the invoice.
 Payment: The counterparty makes payment within one month of receipt of the invoice.
 Late Payment: If the late payment exceeds one (1) month, a late payment fee will be charged (the late payment fee will be 
 
-Honda Confidential
-	Agenda	34
-Explanation? 70 mins
-Q&A?	45 mins
-No.ItemTime
-(Minutes)Presenter1Opening speech
-??Today's purpose5HRAP FunakoshiSMG2Outline of Honda initiatives
-* Evolution of Honda's development-process and key measures
-Business Partner Collaboration Initiatives
-* Vision for Joint Creation with Business Partners
-* Collaboration environment evolution20HRAP CIS Attawit3Environment cost and system configuration
-Administrative Procedures for Starting Use of the environment20ASH IT Aikawa4Methods for Applying CATIA V6 Practices Deployment plan 20HRAP Funakoshi SMG5Summary5ASH IT Aikawa6Q&A45ASH/HRAP/HM ALL7Closing speech5HRAP Funakoshi SMG[Send data to e-mail address]
+[Send data to e-mail address]
 HRAP Business Partner Digital Collaboration Help Desk
 Telephone: 065-5076490, 065-5076567
-HRAP_VMC_HELPDESK_SUPPLIER@honda.th.com[Mailing address of original paper]
-14 Surasak Rd, Silom, Bang Rak, Bangkok 10500 Asian Honda Motor Co., Ltd. To : Kenji AikawaList of application-related documents
+HRAP_VMC_HELPDESK_SUPPLIER@honda.th.com
+[Mailing address of original paper]
+14 Surasak Rd, Silom, Bang Rak, Bangkok 10500 Asian Honda Motor Co., Ltd. To : Kenji Aikawa
+List of application-related documents
 
 Application-related documents
 Contract agreement between Honda and supplier How to get : 
@@ -240,25 +420,34 @@ Contract agreement between Honda and supplier How to get :
                      -Address of company
                      -Information of Signer
            Step4. Honda will send document by post                        
-How to submit :Send Original paper by post[Send data to e-mail address]
+How to submit :Send Original paper by post
+[Send data to e-mail address]
 HRAP Business Partner Digital Collaboration Help Desk
 Telephone: 065-5076490, 065-5076567
-HRAP_VMC_HELPDESK_SUPPLIER@honda.th.com[Mailing address of original paper]
-14 Surasak Rd, Silom, Bang Rak, Bangkok 10500 Asian Honda Motor Co., Ltd. To : Kenji AikawaAssessment Sheet for supplier’s security rule
+HRAP_VMC_HELPDESK_SUPPLIER@honda.th.com
+[Mailing address of original paper]
+14 Surasak Rd, Silom, Bang Rak, Bangkok 10500 Asian Honda Motor Co., Ltd. To : Kenji Aikawa
+Assessment Sheet for supplierÂ’s security rule
 How to get : Download from Sharepoint
-How to submit :Send Excel file by e-mailAssessment Sheet for supplier’s security rule
+How to submit :Send Excel file by e-mail
+Assessment Sheet for supplierÂ’s security rule
 How to get : Download from Sharepoint
-How to submit :Send Excel file by e-mailCompany registration
+How to submit :Send Excel file by e-mail
+Company registration
 	#1 	#2	#3
 	License Agreement	Confidentiality check sheet	Confirmation sheet of teleworking rules
 
 [Send data to e-mail address]
 HRAP Business Partner Digital Collaboration Help Desk
 Telephone: 065-5076490, 065-5076567
-HRAP_VMC_HELPDESK_SUPPLIER@honda.th.com[Mailing address of original paper]
-14 Surasak Rd, Silom, Bang Rak, Bangkok 10500 Asian Honda Motor Co., Ltd. To : Kenji AikawaApplication-related documents
+HRAP_VMC_HELPDESK_SUPPLIER@honda.th.com
+[Mailing address of original paper]
+14 Surasak Rd, Silom, Bang Rak, Bangkok 10500 Asian Honda Motor Co., Ltd. To : Kenji Aikawa
+Application-related documents
 
-User registration
+User registration
+
+
 [Key Notes]
 -#7 User Registration Form
  Please get signature from the manager of HRAP designer before submitting
@@ -273,49 +462,59 @@ User registration
 -How to get #4/#7 form  Download from Sharepoint
 -How to submit
  Send original paper by post : #4
- Send data by e-mail : #4, #5, #6, #7, #8, #9 Storage of application-related documents
+ Send data by e-mail : #4, #5, #6, #7, #8, #9 
+
+
+
+Storage of application-related documents
 The contact person of the supplier should download various documents and share them within your company.
 AO Supplier Collaboration Help Site (Link)
 
 Case of usage for collaboration environment
 
-Honda Confidential
-	Agenda	40
-Explanation? 70 mins
-Q&A?	45 mins
-No.ItemTime
-(Minutes)Presenter1Opening speech
-??Today's purpose5HRAP FunakoshiSMG2Outline of Honda initiatives
-* Evolution of Honda's development-process and key measures
-Business Partner Collaboration Initiatives
-* Vision for Joint Creation with Business Partners
-* Collaboration environment evolution20HRAP CIS Attawit3Environment cost and system configuration
-Administrative Procedures for Starting Use of the environment20ASH IT Aikawa4Methods for Applying CATIA V6 Practices Deployment plan 20HRAP Funakoshi SMG5Summary5ASH IT Aikawa6Q&A45ASH/HRAP/HM ALL7Closing speech5HRAP Funakoshi SMG	Implementation system	41
+	Implementation system	41
 	Business Partners	Honda
 
 Provide illustration and agree on process building, including both management
-Honda Confidential
+ 
 	About Honda-Digital Collaboration Environment Phase1&2	42
 ?Purpose
     Prepare for practical application of CATIA V6 and Digital Collaboration Environment by suppliers and designers. ?Goals and methods
-Goal of practical applicationHow to proceedIllustrated alignmentThe prospect of drawing and drawing out of the applied part in CATIA V6 new drawing form shall be established.Individual adjustment for each part between suppliers and Honda DesignProcess matchingBetween suppliers and HONDA designers,
-Agreement has been reached on an implementation plan for parts development that does not require rework in accordance with the model schedule.
-	List of submissions ?Illustrated alignment?	Honda Confidential43
+
+Goal of practical application
+How to proceed
+Illustrated alignment
+The prospect of drawing and drawing out of the applied part in CATIA V6 new drawing form shall be established.
+Individual adjustment for each part between suppliers and Honda Design
+Process matching
+Between suppliers and HONDA designers,
+Agreement has been reached on an implementation plan for parts development that does not require rework in accordance with the model schedule.
+
+
+	List of submissions ?Illustrated alignment?	 43
 
 Illustrated alignment
-Goal of WS completionDeliverablesThe prospect of drawing and drawing out of the applied part in CATIA V6 new drawing form shall be established.Graphical consistency result table Lot3 completion check sheet?Procedure example ?	?Procedure example ?
+Goal of WS completion
+Deliverables
+The prospect of drawing and drawing out of the applied part in CATIA V6 new drawing form shall be established.
+Graphical consistency result table Lot3 completion check sheet
+?Procedure example ?	?Procedure example ?
 
 	Drawing with actual parts and 	With each drawing in a new form based on the current 
 	verification/matching	drawing
 Match what elements are illustrated
 Please submit the "Diagram Consistency Results Table" along with the completion confirmation sheet.
-	???????	45(Honda Confidential)
+	???????	45( )
 
 Alignment of Collaboration processes
-Goal of WS completionDeliverablesOn a newly developed flow and parts development without rework that conforms to the applicable model schedule
-The execution plan is prepared and consistent with the business partner.Specific Implementation Plans for New Development 
+Goal of WS completion
+Deliverables
+On a newly developed flow and parts development without rework that conforms to the applicable model schedule
+The execution plan is prepared and consistent with the business partner.
+Specific Implementation Plans for New Development 
 (IQUAVIS)
-Specific and Quantitative Approaches and Prospects of Effects?Deliverables (Item Plan)
+Specific and Quantitative Approaches and Prospects of Effects
+?Deliverables (Item Plan)
 
 Collaborate with HM designers to digitally schedule IQUAVIS)? URL on a completion checklist
 
@@ -323,291 +522,142 @@ Point of Collaboration process alignment
 
 Point of Collaboration process alignment
 
-	List of submissions ?Process matching?	Honda Confidential49
+	List of submissions ?Process matching?	 49
 Confirm concern and ideal target 	Digital calendar that reflects Collaboration work processes
 
 Initiatives for xxxx of xxxx (~ Quantitative Target)	Completion check sheet
 
-	Initiatives for xxxx of xxxx (~ Quantitative Target)	Honda Confidential50
+	Initiatives for xxxx of xxxx (~ Quantitative Target)	 50
 
-Honda Confidential Joint Creation Process Alignment Initiatives and Prospects of Effects	51
-Requirements and requirementsRework prevention processAbout whatWhenBy 
-whomIn any wayMechanism operating load (**N) or less, including component tolerances and variations during AF assemblyPresentationPresentation of variations during AF**Month ** date
-D1 diagram 8 weeks agoHM?Execute the task by AHEAD and present the target value (variation and load). ?Create a variation L/O and register it in the Collaboration environment.VerificationIn a variable Max product Load measurement**Month ** date
-D1 Chart 3.5 Weeks agoCompa ny X?Prepare a sample of variation max and set a joint confirmation session. ?Clarify the settings of the above example and the assumed tolerances and respond to AHEAD issues.CheckTolerance value**Month ** date
-2 weeks prior to D1 chartHM?In the tolerance setting at the time of L/O checking as the consistent value of the confirmation meeting
-Verify on 3D that they are the samePresentationVerificationCheck	Digital calendar that reflects Collaboration work processes	Honda Confidential52
+  Joint Creation Process Alignment Initiatives and Prospects of Effects	51
+Requirements and requirements
 
-	Completion check sheet	Honda Confidential53
-SECTIONF999Name of customerVMC CorporationComponent main No99999Part 
-nameSAMPLE. ASSYIllustrated alignmentCompleted, N/AAlignment of 
-Collaboration processesCompleted, N/ADigital scheduling URLIquavis://main/show?ProjectId=1ebdd072-59ff-4fe1-b5de-6f8d0c9cbb7b
+
+Rework prevention process
+
+
+About what
+When
+By 
+whom
+In any way
+Mechanism operating load (**N) or less, including component tolerances and variations during AF assembly
+Presentation
+Presentation of variations during AF
+**Month ** date
+D1 diagram 8 weeks ago
+HM
+?Execute the task by AHEAD and present the target value (variation and load). ?Create a variation L/O and register it in the Collaboration environment.
+
+Verification
+In a variable Max product Load measurement
+**Month ** date
+D1 Chart 3.5 Weeks ago
+Compa ny X
+?Prepare a sample of variation max and set a joint confirmation session. ?Clarify the settings of the above example and the assumed tolerances and respond to AHEAD issues.
+
+Check
+Tolerance value
+**Month ** date
+2 weeks prior to D1 chart
+HM
+?In the tolerance setting at the time of L/O checking as the consistent value of the confirmation meeting
+Verify on 3D that they are the same
+
+Presentation
+
+
+
+
+
+Verification
+
+
+
+
+
+Check
+
+
+
+
+	Digital calendar that reflects Collaboration work processes	 52
+
+	Completion check sheet	 53
+SECTION
+F999
+Name of customer
+VMC Corporation
+Component main No
+99999
+Part 
+name
+SAMPLE. ASSY
+Illustrated alignment
+Completed, N/A
+Alignment of 
+Collaboration processes
+Completed, N/A
+Digital scheduling URL
+Iquavis://main/show?ProjectId=1ebdd072-59ff-4fe1-b5de-6f8d0c9cbb7b
+
 Contact Comments
-: Taro tochigiThanks for the process alignment. Now that development issues and responses related to production skills have been materialized and their effectiveness has been clarified, we will ensure that planning is carried out in the model ***.Comments from HM 
+: Taro tochigi
+Thanks for the process alignment. Now that development issues and responses related to production skills have been materialized and their effectiveness has been clarified, we will ensure that planning is carried out in the model ***.
+Comments from HM 
 Manager
-: Jiro hondaThanks for your understanding and cooperation in our efforts to improve efficiency. We believe it is essential to reflect this plan in development and products, so we request your cooperation in practice as well.
-	Deployment plan – Phase 2	54
+: Jiro honda
+Thanks for your understanding and cooperation in our efforts to improve efficiency. We believe it is essential to reflect this plan in development and products, so we request your cooperation in practice as well.
 
-Explanation? 70 mins
-Q&A?	45 mins
-No.ItemTime
-(Minutes)Presenter1Opening speech
-??Today's purpose5HRAP FunakoshiSMG2Outline of Honda initiatives
-* Evolution of Honda's development-process and key measures
-Business Partner Collaboration Initiatives
-* Vision for Joint Creation with Business Partners
-* Collaboration environment evolution20HRAP CIS Attawit3Environment cost and system configuration
-Administrative Procedures for Starting Use of the environment20ASH IT Aikawa4Methods for Applying CATIA V6 Practices Deployment plan 20HRAP Funakoshi SMG5Summary5ASH IT Aikawa6Q&A45ASH/HRAP/HM ALL7Closing speech5HRAP Funakoshi SMG	Today's summary	56
-?Today’s purpose
+	Deployment plan Â– Phase 2	54
+
+?TodayÂ’s purpose
   Supplier Collaboration project will be started from trial phase.
 Honda will provide one free user for each company as trial phase before submitting M/L.
 ?Request
-CategoryTaskDue dateLicense Agreement(#1)Please review the agreement.
-If supplier can accept the agreement, please inform below information to “HRAP VMC Supplier Helpdesk”
+Category
+Task
+Due date
+License Agreement(#1)
+Please review the agreement.
+If supplier can accept the agreement, please inform below information to Â“HRAP VMC Supplier HelpdeskÂ”
 1. Company name
 2. Address of company
-3. Information of SignerNov 08thOnce you receive document, please sign and submit it by post.Nov 25thCheck sheet for company(#2,3)Please fill in the form and submit Excel file by e-mailNov 25thConfidentiality form(#4)Please fill in the form and submit document by post, and submit PDF file by e-mailNov 25thPublic key (#5)Please create public key and submit data by e-mailNov 25thUser Application form(#7)Please fill in the form and get signature from the manager of HRAP designer. Then submit Excel and PDF by e-mailNov 25th[Send data to e-mail address]
+3. Information of Signer
+Nov 08th
+
+Once you receive document, please sign and submit it by post.
+Nov 25th
+Check sheet for company(#2,3)
+Please fill in the form and submit Excel file by e-mail
+Nov 25th
+Confidentiality form(#4)
+Please fill in the form and submit document by post, and submit PDF file by e-mail
+Nov 25th
+Public key (#5)
+Please create public key and submit data by e-mail
+Nov 25th
+User Application form(#7)
+Please fill in the form and get signature from the manager of HRAP designer. Then submit Excel and PDF by e-mail
+Nov 25th
+[Send data to e-mail address]
 HRAP Business Partner Digital Collaboration Help Desk
 Telephone: 065-5076490, 065-5076567
-HRAP_VMC_HELPDESK_SUPPLIER@honda.th.com[Mailing address of original paper]
-14 Surasak Rd, Silom, Bang Rak, Bangkok 10500 Asian Honda Motor Co., Ltd. To : Kenji Aikawa?Download document
+HRAP_VMC_HELPDESK_SUPPLIER@honda.th.com
+
+[Mailing address of original paper]
+14 Surasak Rd, Silom, Bang Rak, Bangkok 10500 Asian Honda Motor Co., Ltd. To : Kenji Aikawa
+?Download document
  The contact person of the supplier can download documents from our site (Link)
-Explanation? 70 mins
-Q&A?	45 mins
-No.ItemTime
-(Minutes)Presenter1Opening speech
-??Today's purpose5HRAP FunakoshiSMG2Outline of Honda initiatives
-* Evolution of Honda's development-process and key measures
-Business Partner Collaboration Initiatives
-* Vision for Joint Creation with Business Partners
-* Collaboration environment evolution20HRAP CIS Attawit3Environment cost and system configuration
-Administrative Procedures for Starting Use of the environment20ASH IT Aikawa4Methods for Applying CATIA V6 Practices Deployment plan 20HRAP Funakoshi SMG5Summary5ASH IT Aikawa6Q&A45ASH/HRAP/HM ALL7Closing speech5HRAP Funakoshi SMG
 Q&A
 I'm sorry, but due to time limitations, this question is related to "Today's explanation".
 If you have any questions, please raise your hand.
 Inquiry window :
 Supplier Digital Collaboration Helpdesk
 E-mail : 	 	HRAP_VMC_Helpdesk_Supplier@honda.th.com
-Phone number : 	065-5076490, 065-5076567 Business hours : 	08:00-12:00, 13:00-17:00
-Language : 	 	Thai & EnglishExplanation? 70 mins
-Q&A?	45 mins
-No.ItemTime
-(Minutes)Presenter1Opening speech
-??Today's purpose5HRAP FunakoshiSMG2Outline of Honda initiatives
-* Evolution of Honda's development-process and key measures
-Business Partner Collaboration Initiatives
-* Vision for Joint Creation with Business Partners
-* Collaboration environment evolution20HRAP CIS Attawit3Environment cost and system configuration
-Administrative Procedures for Starting Use of the environment20ASH IT Aikawa4Methods for Applying CATIA V6 Practices Deployment plan 20HRAP Funakoshi SMG5Summary5ASH IT Aikawa6Q&A45ASH/HRAP/HM ALL7Closing speech5HRAP Funakoshi SMGWe have built a digital collaboration environment (CATIA V6+Cloud) for manufacturer drawings to strengthen Collaboration with our business partners.
+We have built a digital collaboration environment (CATIA V6+Cloud) for manufacturer drawings to strengthen Collaboration with our business partners.
 In the future, in order to develop HRAP models, we will need to deliver drawings using CATIA V6 and have manufacturers draw the drawings at our suppliers using the cloud. We ask for the cooperation of our business partners in implementing this system.
 We ask for your cooperation in coordinating the phased introduction between our design department and our business partners.
 Finally, I would like to ask our business partners for their continued understanding and cooperation as we strive to realize "strong manufacturing" that will lead to Honda's growth and evolution. Please.
 Thank you very much for today.
-
-
-Honda Confidential 2
-
-
-Honda Confidential 2
-
-
-
-
-
-
-
-
-
-
-
-
-
-Honda Confidential 2
-
-
-
-
-
-
-
-
-
-
-
-Honda Confidential 2
-
-
-Honda Confidential 2
-
-
-
-
-
-
-Honda Confidential 22
-
-
-
-
-Honda Confidential 25
-
-
-Honda Confidential 25
-
-
-Copyright © 2023 Honda Motor Co., Ltd. All Rights Reserved.
-
-Copyright © 2023 Honda Motor Co., Ltd. All Rights Reserved.
-
-Honda Confidential 25
-
-
-Copyright © 2023 Honda Motor Co., Ltd. All Rights Reserved.
-
-Honda Confidential 30
-
-
-Honda Confidential 30
-
-
-
-
-
-
-Honda Confidential 25
-
-
-Copyright © 2023 Honda Motor Co., Ltd. All Rights Reserved.
-
-Honda Confidential 30
-
-
-Honda Confidential 30
-
-
-
-
-
-
-Honda Confidential 30
-
-
-
-
-Honda Confidential 30
-
-
-Honda Confidential 30
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Honda Confidential
-
-
-
-
-
-
-Honda Confidential
-
-
-
-
-Honda Confidential 44
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Honda Confidential 44
-
-
-
-
-
-
-
-
-
-Honda Confidential 44
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Honda Confidential
-
-
-	Agenda	Honda Confidential55
-
-
-
-
-
-
-Honda Confidential
-
-
-
-
-Honda Confidential 2
-
-
-	Agenda	Honda Confidential55
-
-
-
-
-
-
-Honda Confidential 25
-
-
-
-
-Honda Confidential 2
-
-
-Honda Confidential 2
-
-
-
-
-
-
-Honda Confidential 2
-
-
-
 
