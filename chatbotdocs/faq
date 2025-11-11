@@ -1,0 +1,175 @@
+Q. If there is no Virtual Machine Environment in the same country and access Virtual Machine Environment in other GEO, is it still Single Country Use?
+A. Yes. Licensee and User must be in the same country wherever access to Virtual Machine Environment assigned by HONDA.
+
+ 
+
+Q. Can license purchased in Country A be used in Country B, either temporarily or for a limited period of time?
+A. No. But, it is only possible to use it during a business trip abroad for a period of 30 days or less.
+
+Q. Any special pricing offer available other than PCS, MES and TAD?
+A. No, special pricing is valid only for PCS, MES and TAD as of today.
+
+ 
+
+Q. Can supplier purchase “Named user” license?
+A. Yes, but this special pricing offer is valid only for “Shareable” MES and TAD licenses. Please re-check concept slide (p.8).
+
+ 
+
+Q. This special pricing offer can be applied to any HONDA suppliers?
+A. No, only for eligible suppliers in the HONDA supplier list which is nominated by HONDA Japan and validated by DS.
+
+ 
+
+Q. This special pricing offer is applied for future Release product?
+A. No, this is designed only for R2022x which is HONDA’s current 3DEXPERIENCE Release.
+
+ 
+
+Q. Additional discount can be applied?
+A. No, additional discount cannot be applied on top of this special offering.
+
+Q. Supplier X wants to purchase HSUP, however supplier X is NOT in the list. What can we do ?
+A. Supplier X needs to ask local HONDA to add supplier X in the list. (Ref. SBO process eligible supplier “YES/NO” on p.18 of the Material of Sales Guide.)
+
+ 
+
+Q. Supplier Y who has been in the list changed company name and cannot purchase HSUP.  What can we do ?
+A. Supplier Y needs to ask local HONDA to add new company name or changing company name in the list.
+
+ 
+
+Q. Parent company of supplier Z is already in the list. Accordingly, can supplier Z purchase HSUP ?
+A. No. If the parent company is on Honda list but Company Z itself is not on the list, then supplier Z cannot purchase HSUP.
+     If supplier Z also would like to purchase HSUP, please request HONDA to add Z to the list based on the process on p.18 of the Material of Sales Guide.
+
+ 
+
+Q. WDHAC and DHEC are also included in the HSUP list, but are these companies also subject to the HSUP offer?
+A. Yes, they are. The companies on the list are defined as HSUP offer eligible by Honda Motor Co.
+
+ 
+
+Q. Where can I find the latest HONDA Supplier List and when will it be shared?
+A. We will share the list by giving “view only” permissions to the representatives of each GEO on 3DDrive. We will leave it up to each GEO to decide how to share the list with their members.
+(We appreciate your understanding that for confidentiality reasons, we can only share the list with a limited members.)
+
+Q. What is different between HONDA Supplier T-CLOSA for HSUP and general DS CLOSA?
+A. HONDA Supplier T-CLOSA has additional definition in order to allow eligible supplier (=Licensee) to use Virtual Machine Environment which is appointed by Honda Motor Co., Ltd.
+As of today, Virtual Machine Environment which is defined “appointed by Honda Motor Co., Ltd”, however appointed owner subject to be changed at HONDA direction in the future.
+In principle, license to be installed and used in Licensee’s machine.
+
+ 
+
+Q. What is DS internal process to apply HONDA Supplier T-CLOSA ?
+A. Request HONDA Supplier T-CLOSA is required in SBO submission comment.
+
+ 
+
+Q. Customer purchased license under HONDA Supplier T-CLOSA. Can Customer use these license also for their own business, not only for HONDA business ?
+A. Yes, that is contractually possible. However, individual conditions of use (number of licenses, usage scope, etc.) may be restricted by SBO approval.
+
+ 
+
+Q. Is the T-CLOSA template prepared in advance or will it be shared?
+A. T-CLOSA needs to be created by DVE in each country.
+     There is a template created by AP Legal on what content should be included in T-CLOSA, which will be shared by Japan DVE ( Kamiyama san). Mr. Kamiyama will contact DVEs in each country separately regarding the timing of sharing.
+
+     Q. HONDA provides PCS role to suppliers. Suppliers don’t need to purchase PCS role ?
+
+A. Yes. Suppliers don’t need to purchase PCS role if they use PCS in HONDA supplier collaboration environment, because they can use PCS provided by HONDA.
+However, if they want to use PCS in supplier environment, suppliers need to purchase their own PCS with or without using HSUP. (Please refer to p.9 of the Material of Sales Guide.)
+
+ 
+
+Q. If customer purchase license without using HONDA Supplier Promotion, can customer use it in HONDA supplier collaboration environment ?
+
+A. Yes, it is possible as long as shareable license. And the purchased license need to be linked with HONDA Supplier T-CLOSA, thus novation process is required.
+
+ 
+
+Q. Customer purchased license(MES,TAD) with HONDA Supplier T-CLOSA. Can customer use these licenses also for their own business , not only for HONDA business ?
+
+A. Yes, that is contractually possible. However, individual conditions of use (number of licenses, usage scope, etc.) may be restricted by SBO approval.
+
+Q. Is it possible to upload 3DA model as the deliverables to Supplier Collaboration Env.?
+A. Yes, but suppliers have to re-create 3DA in Supplier Collaboration Env. based on HONDA’s rule
+
+ 
+
+Q. Is it possible to bring back final model as CATIA format to supplier’s env.?
+A. Yes, it is technically possible to bring back final model through 3dxml file. (HONDA requires same Release with HONDA)
+
+ 
+
+Q. What will happen if suppliers uses lower Release level than HONDA?
+A. NOT possible to bring back as “Upper Compatible data”. Need to export as “Downward compatible mode”
+     Data is supported as datum.
+
+ 
+
+Q. What will happen if suppliers users upper Release level than HONDA?
+A. Possible to bring back final model through 3dxml file. On the other hands, when supplier needs to upload CATIA models to Supplier Collaboration Env., supplier needs to export deliverables as downward thru 3dxml.
+
+ 
+
+Q. Is it possible to propose DS Cloud to suppliers?
+A. Yes, it is possible. However, we need to inform and acknowledge the limitations.
+
+Only On-premise license can connect to HONDA’s environment via Supplier digital collaboration environment (MS Azure).
+
+Therefore this offering(pricing and condition) is eligible only for on premise.
+
+DS Cloud release can be upper than HONDA release (R2022x), therefore HONDA requires only same release with HONDA.
+
+ 
+
+Q. Is it possible to export as CV5 data from Supplier Collaboration Env.?
+A. Yes, it is possible. However, feature data will be lost editable capability, when export CV6 data as CV5 data.
+
+Q. How to get access to Managed DSLS ?
+A. Supplier needs to purchase “OML” (free of charge) to enable Managed DSLS tenant.
+
+ 
+
+Q. Can customer have more than 1 Managed DSLS tenant?
+A. No. Only 1 Managed DSLS tenant for one customer.
+
+   
+
+Q. Can customer select Managed DSLS location ?
+A. No. Managed DSLS location will be automatically assigned to closest location of purchasing.
+
+
+Q. Is there a specified location for storing the V5 license for Parallel use?
+A. Yes. Newly issued Parallel use V5 licenses are also issued to Managed DSLS in the same way as HSUP licenses.
+
+Q. Parent Supplier X already has HONDA supplier promotion license. Can Subsidiary company Y use this license ?
+A. No, license can be used by only Licensee’s employees as same as OST.
+
+ 
+
+Q. Supplier Z has HSUP license. Can supplier Z use this license in other country ?
+A. No, unless DS approval and extend country uplift, license can be used only Licensee’s location as same as OST.
+
+ 
+
+ 
+
+Please ask the below questions to HONDA supplier helpdesk or your counter person in HONDA.
+
+(DS can answer to question only about DS licenses)
+
+ 
+
+Customer has purchased license. How to connect MS Azure environment ?
+
+Which supplier collaboration environment should I connect ?
+
+In my country, there is no Azure environment. How should I do ?
+
+What is different between HONDA guest engineer (PIC) and supplier user ?
+
+Who can provide instruction to start working in HONDA supplier collaboration environment ?
+
+
