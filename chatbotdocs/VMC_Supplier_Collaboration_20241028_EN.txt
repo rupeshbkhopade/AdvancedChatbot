@@ -14,9 +14,9 @@ Methods for Applying CATIA V6 Practices Deployment plan
 
 Main purpose of this day
 Thank you for taking time out of your busy schedule to attend the information session today.
-As part of our manufacturing DX, we have worked with our business partners to develop a strong manufacturing structure.
+As part of our HSUP DX, Honda have worked with our suppliers to develop a strong manufacturing structure.
 We are making improvements to issues such as mistakes in information that have been returned, requirements and requirements that have been mismatched prior to the drawing.
-In particular, for direct data sharing in CATIA V6 cloud environments, and for digital-based schedule matching and problem matching
+In particular, for direct data sharing in CATIA V6 cloud environments, and for digital-based DX schedule matching and problem matching
 Prompting the process construction is important in achieving operational efficiency improvements.
 Today, we will explain how to collaborate with our design using the Digital Collaboration Environment, and the necessary administrative procedures for use.
 We plan to begin using CATIA V6 and Digital Collaboration Environment in HRAP around 
@@ -660,4 +660,5 @@ In the future, in order to develop HRAP models, we will need to deliver drawings
 We ask for your cooperation in coordinating the phased introduction between our design department and our business partners.
 Finally, I would like to ask our business partners for their continued understanding and cooperation as we strive to realize "strong manufacturing" that will lead to Honda's growth and evolution. Please.
 Thank you very much for today.
+
 
