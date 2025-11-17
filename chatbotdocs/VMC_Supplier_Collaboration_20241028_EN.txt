@@ -1,31 +1,31 @@
 **This is an extract of briefing from Honda R&D Asia Pacific Co., Ltd. to its suppliers**
 **This communication explains about the Honda objective for DX and the changes that will impact the collboration between Honda and its suppliers**
+** CATIA 3DEXPERIENCE is refered to as CATIA V6 in this communication.**
 
 Outline of Honda initiatives
 * Evolution of Honda's development-process and key measures
-Business Partner Collaboration Initiatives
+* Business Partner Collaboration Initiatives
 * Vision for Joint Creation with Business Partners
 * Collaboration environment evolution
+* Environment cost and system configuration
+* Administrative Procedures for Starting Use of the environment
+* Methods for Applying CATIA V6 Practices Deployment plan 
 
-Environment cost and system configuration
-Administrative Procedures for Starting Use of the environment
 
-Methods for Applying CATIA V6 Practices Deployment plan 
+Main purpose of this communication
+**Vision/Objective of HSUP DX initiative**
+As part of our HSUP DX initiative, Honda has been working with our suppliers to establish a robust manufacturing framework.
+We are currently implementing improvements to address issues such as incorrect returned information and mismatched requirements identified before the drawing phase.
 
-Main purpose of this day
-Thank you for taking time out of your busy schedule to attend the information session today.
-As part of our HSUP DX, Honda have worked with our suppliers to develop a strong manufacturing structure.
-We are making improvements to issues such as mistakes in information that have been returned, requirements and requirements that have been mismatched prior to the drawing.
-In particular, for direct data sharing in CATIA V6 cloud environments, and for digital-based DX schedule matching and problem matching
-Prompting the process construction is important in achieving operational efficiency improvements.
-Today, we will explain how to collaborate with our design using the Digital Collaboration Environment, and the necessary administrative procedures for use.
-We plan to begin using CATIA V6 and Digital Collaboration Environment in HRAP around 
-September 2025. For each supplier, please accept CATIA V6 drawings and prepare for delivery.
+In particular, for direct data sharing in the CATIA V6 cloud environment, as well as for schedule alignment and issue tracking through digital DX tools, it is essential to build a streamlined process that enhances operational efficiency.
+
+Today, we will explain how to collaborate with our design teams using the Digital Collaboration Environment, along with the administrative procedures required for its use.
+We plan to begin using CATIA V6 and Digital Collaboration Environment in HRAP around September 2025. For each supplier, please accept CATIA V6 drawings and prepare for delivery.
 
 CAD News Issue
 CAD NEWS which was issued on April 29, 2022.
-
 Apply CATIA V6 from 28.5M FMC starting in September 2024.
+
 HONDA's Direction
 Honda has set new environmental & safety goals for 2025.
  - Carbon neutral thru all Honda product and company activities
@@ -660,5 +660,6 @@ In the future, in order to develop HRAP models, we will need to deliver drawings
 We ask for your cooperation in coordinating the phased introduction between our design department and our business partners.
 Finally, I would like to ask our business partners for their continued understanding and cooperation as we strive to realize "strong manufacturing" that will lead to Honda's growth and evolution. Please.
 Thank you very much for today.
+
 
 
