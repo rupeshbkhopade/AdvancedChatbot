@@ -20,7 +20,7 @@ We are currently implementing improvements to address issues such as incorrect r
 In particular, for direct data sharing in the CATIA V6 cloud environment, as well as for schedule alignment and issue tracking through digital DX tools, it is essential to build a streamlined process that enhances operational efficiency.
 
 Today, we will explain how to collaborate with our design teams using the Digital Collaboration Environment, along with the administrative procedures required for its use.
-We plan to begin using CATIA V6 and Digital Collaboration Environment in HRAP around September 2025. For each supplier, please accept CATIA V6 drawings and prepare for delivery.
+
 
 CAD News Issue
 CAD NEWS which was issued on April 29, 2022.
@@ -331,153 +331,37 @@ TAD
 Necessary for creating FTAs (dimensions / annotations) in 3D
 
 Please prepare for the introduction of Collaboration environment.
-Cost image for charged plan
-Rate: 1USD=36.9THB          1JPY=0.23THB
-Use case
-Exclusive plan
-Shared plan
-Usage plan
-Pay-as-you-go + 1 workstation/person
-       Pay-as-you-go + 1 workstation with 5 users
-Basic charge 
-(GUID,AHEAD)
-30,360 THB
-\11,000 *12
-10,488 THB / person
-(\9,000+\2,000*5)*12/5
-MS SW Licensing
-20,079 THB
-10,426 THB / person (Option Ms office and
-Mail box:+9,653 THB)
 CATIA Licensing
 Prepared by supplier
-Prepared by supplier
-Cloud Instances Transactional Pricing
-Pay-as-you-go (annual): 223,767 THB Example: 14 hours × 240 days = 3360 hours
-Pay-as-you-go (annual): 74,736 THB Example: 3 hours x 240 days = 720 hours
-Pay-as-you-go (annual): 54,511 THB Example: 1.5 hours × 240 days = 360 hours
-Annual Cost
-274,206 THB
-125,175 THB
-75,425 THB
-?This cost is for just reference.
-Because the cost depend on contract between supplier and vendor 
-Setting usage plans according to usage conditions in response to pay-as-you-go/cloud handset shares
 
 Preparation for Cloud and V6 licenses
 ?To use Honda Supplier Collaboration environment at the expense of a business partner, the following licenses must be prepared by the business partner.
 Cloud environment
 
 
-AZURE Subscription ID
-MS licence
-1. Contact Japan Business Systems Asia Pacific Pte. Ltd.
- Please consult Issue Azure Subscription ID and Purchase MS Software License for Honda digital Collaboration. (*) (*) About terms of use and costs, contact Sales agent.
-Contact: vmc-ap@jbs.com, Email Subject: [Honda Business Partner Collaboration Environments]
-2. Once "Azure Subscription ID, and MS Licensing" are delivered (*) from JBS to Honda Tenants,     please inform the supplier help desk about Azure subscription ID and MS licensing information. 
-    (*) By registering AZURE subscription ID and license purchased by the supplier with Honda tenant, it will be used to link to the user at the time of application.
 DS Licensing
-
-
-If you have CV6 licensing
+If you have CATIA V6 licensing
 1. Contact the distributor who purchased DS license for "Transfer License Registration to Managed-DSLS Tenants for Business Partners".
 2. After the license transfer to Managed-DSLS is complete, contact Honda Supplier Help Desk.
 
-For CV6 unlicensed
+For CATIA V6 unlicensed
 1. Contact your DS licensing distributor with "DS licensing for Honda digital Collaboration".
-If you do not have a V6 license: Purchasing or migration from V5 license
+If you do not have a CATIA V6 license: Purchasing or migration from CATIA V5 license
 Mandatory licensing is MES, TAD.  PCS(IFW, CSV) is not required in Honda supplier collaboration environments.
 REFERENCE DS LICENSING CONFIGURATION URL: https://www.3ds.com/terms/product-portfolio/licensed-programs/
 2. Once you have purchased your DS license and registered your managed DSLS for your business partner with your DS license,      contact Honda Supplier Help.
-How to ON-OFF cloud workstation
-Methods
-Definitions
-pay-as-you-go
-It can be used at any time in 24h by setting the operating hours of the terminals.
-   ?Change the startup/shutdown time setting to the supplier representative (free frame) and use of the startup/shutdown tool
 
-Allow charges only for usage hours and pre-configuration of usage hours
-How to charge for basic charge
-Timing: Charges are made four times a year (June, September, December, March)
-Invoice Methods: Honda confirms the payment amount prior to the first month of the invoice, and Honda issues the invoice to the account at the end of the month of the invoice.
-Payment: The counterparty makes payment within one month of receipt of the invoice.
-Late Payment: If the late payment exceeds one (1) month, a late payment fee will be charged (the late payment fee will be 
-
-[Send data to e-mail address]
 HRAP Business Partner Digital Collaboration Help Desk
 Telephone: 065-5076490, 065-5076567
 HRAP_VMC_HELPDESK_SUPPLIER@honda.th.com
-[Mailing address of original paper]
 14 Surasak Rd, Silom, Bang Rak, Bangkok 10500 Asian Honda Motor Co., Ltd. To : Kenji Aikawa
 List of application-related documents
 
-Application-related documents
-Contract agreement between Honda and supplier How to get : 
-           Step1. Download from Sharepoint
-           Step2. Supplier review the agreement
-           Step3. If OK, Supplier provide the below
-                     -Company name
-                     -Address of company
-                     -Information of Signer
-           Step4. Honda will send document by post                        
-How to submit :Send Original paper by post
-[Send data to e-mail address]
-HRAP Business Partner Digital Collaboration Help Desk
-Telephone: 065-5076490, 065-5076567
-HRAP_VMC_HELPDESK_SUPPLIER@honda.th.com
-[Mailing address of original paper]
-14 Surasak Rd, Silom, Bang Rak, Bangkok 10500 Asian Honda Motor Co., Ltd. To : Kenji Aikawa
-Assessment Sheet for suppliers security rule
-How to get : Download from Sharepoint
-How to submit :Send Excel file by e-mail
-Assessment Sheet for suppliers security rule
-How to get : Download from Sharepoint
-How to submit :Send Excel file by e-mail
-Company registration
-	#1 	#2	#3
-	License Agreement	Confidentiality check sheet	Confirmation sheet of teleworking rules
-
-[Send data to e-mail address]
-HRAP Business Partner Digital Collaboration Help Desk
-Telephone: 065-5076490, 065-5076567
-HRAP_VMC_HELPDESK_SUPPLIER@honda.th.com
-[Mailing address of original paper]
-14 Surasak Rd, Silom, Bang Rak, Bangkok 10500 Asian Honda Motor Co., Ltd. To : Kenji Aikawa
-Application-related documents
 
 User registration
 
 
-[Key Notes]
--#7 User Registration Form
- Please get signature from the manager of HRAP designer before submitting
--#4 Confidentiality Pledges for Developer GE
- Please attach a copy of ID card/Passport with sign
--#5 Public key
- Please generate public key for each user
- (*Please download manual to create the public key from Sharepoint)
--#8 CATIA V6 authentication-key, #9 Microsoft Licensing Information  Please get these information from Sales Agent
--#6 Confidential training record
- After receiving user registration form, HRAP will hold confidential training.  Please join the training, then share the record to us.
--How to get #4/#7 form  Download from Sharepoint
--How to submit
- Send original paper by post : #4
- Send data by e-mail : #4, #5, #6, #7, #8, #9 
-
-
-
-Storage of application-related documents
-The contact person of the supplier should download various documents and share them within your company.
-AO Supplier Collaboration Help Site (Link)
-
-Case of usage for collaboration environment
-
-	Implementation system	41
-	Business Partners	Honda
-
-Provide illustration and agree on process building, including both management
- 
-	About Honda-Digital Collaboration Environment Phase1&2	42
+About Honda-Digital Collaboration Environment Phase1&2	42
 ?Purpose
     Prepare for practical application of CATIA V6 and Digital Collaboration Environment by suppliers and designers. ?Goals and methods
 
@@ -491,21 +375,18 @@ Between suppliers and HONDA designers,
 Agreement has been reached on an implementation plan for parts development that does not require rework in accordance with the model schedule.
 
 
-	List of submissions ?Illustrated alignment?	 43
-
 Illustrated alignment
 Goal of WS completion
 Deliverables
 The prospect of drawing and drawing out of the applied part in CATIA V6 new drawing form shall be established.
 Graphical consistency result table Lot3 completion check sheet
-?Procedure example ?	?Procedure example ?
+
 
 	Drawing with actual parts and 	With each drawing in a new form based on the current 
 	verification/matching	drawing
 Match what elements are illustrated
 Please submit the "Diagram Consistency Results Table" along with the completion confirmation sheet.
-	???????	45( )
-
+	
 Alignment of Collaboration processes
 Goal of WS completion
 Deliverables
@@ -516,90 +397,7 @@ Specific Implementation Plans for New Development
 Specific and Quantitative Approaches and Prospects of Effects
 ?Deliverables (Item Plan)
 
-Collaborate with HM designers to digitally schedule IQUAVIS)? URL on a completion checklist
 
-Point of Collaboration process alignment
-
-Point of Collaboration process alignment
-
-	List of submissions ?Process matching?	 49
-Confirm concern and ideal target 	Digital calendar that reflects Collaboration work processes
-
-Initiatives for xxxx of xxxx (~ Quantitative Target)	Completion check sheet
-
-	Initiatives for xxxx of xxxx (~ Quantitative Target)	 50
-
-  Joint Creation Process Alignment Initiatives and Prospects of Effects	51
-Requirements and requirements
-
-
-Rework prevention process
-
-
-About what
-When
-By 
-whom
-In any way
-Mechanism operating load (**N) or less, including component tolerances and variations during AF assembly
-Presentation
-Presentation of variations during AF
-**Month ** date
-D1 diagram 8 weeks ago
-HM
-?Execute the task by AHEAD and present the target value (variation and load). ?Create a variation L/O and register it in the Collaboration environment.
-
-Verification
-In a variable Max product Load measurement
-**Month ** date
-D1 Chart 3.5 Weeks ago
-Compa ny X
-?Prepare a sample of variation max and set a joint confirmation session. ?Clarify the settings of the above example and the assumed tolerances and respond to AHEAD issues.
-
-Check
-Tolerance value
-**Month ** date
-2 weeks prior to D1 chart
-HM
-?In the tolerance setting at the time of L/O checking as the consistent value of the confirmation meeting
-Verify on 3D that they are the same
-
-Presentation
-
-
-
-
-
-Verification
-
-
-
-
-
-Check
-
-
-
-
-	Digital calendar that reflects Collaboration work processes	 52
-
-	Completion check sheet	 53
-SECTION
-F999
-Name of customer
-VMC Corporation
-Component main No
-99999
-Part 
-name
-SAMPLE. ASSY
-Illustrated alignment
-Completed, N/A
-Alignment of 
-Collaboration processes
-Completed, N/A
-Digital scheduling URL
-Iquavis://main/show?ProjectId=1ebdd072-59ff-4fe1-b5de-6f8d0c9cbb7b
 
 Contact Comments
 : Taro tochigi
@@ -611,36 +409,6 @@ Thanks for your understanding and cooperation in our efforts to improve efficien
 
 	Deployment plan  Phase 2	54
 
-?Todays purpose
-  Supplier Collaboration project will be started from trial phase.
-Honda will provide one free user for each company as trial phase before submitting M/L.
-?Request
-Category
-Task
-Due date
-License Agreement(#1)
-Please review the agreement.
-If supplier can accept the agreement, please inform below information to HRAP VMC Supplier Helpdesk
-1. Company name
-2. Address of company
-3. Information of Signer
-Nov 08th
-
-Once you receive document, please sign and submit it by post.
-Nov 25th
-Check sheet for company(#2,3)
-Please fill in the form and submit Excel file by e-mail
-Nov 25th
-Confidentiality form(#4)
-Please fill in the form and submit document by post, and submit PDF file by e-mail
-Nov 25th
-Public key (#5)
-Please create public key and submit data by e-mail
-Nov 25th
-User Application form(#7)
-Please fill in the form and get signature from the manager of HRAP designer. Then submit Excel and PDF by e-mail
-Nov 25th
-[Send data to e-mail address]
 HRAP Business Partner Digital Collaboration Help Desk
 Telephone: 065-5076490, 065-5076567
 HRAP_VMC_HELPDESK_SUPPLIER@honda.th.com
@@ -661,5 +429,12 @@ We ask for your cooperation in coordinating the phased introduction between our 
 Finally, I would like to ask our business partners for their continued understanding and cooperation as we strive to realize "strong manufacturing" that will lead to Honda's growth and evolution. Please.
 Thank you very much for today.
 
+
+Timeline As per the current information-
+Early maker layout (M/L) - Q4 2025
+Concept drawing Q1 2026
+CV drawing issue Q3 2026
+
+**Theser timelines are subject to change and delays. It is advised that you consult team in charge for further changes**
 
 
